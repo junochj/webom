@@ -1,0 +1,40 @@
+﻿@charset "utf-8";
+
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,dl,dt,dd,hr,button,figure,figcaption{
+  margin:0; padding:0; list-style:none;}
+a{ text-decoration:none;}
+img{ border:0; }
+
+.visual{ width:1920px; height:600px;
+            margin:50px auto;}
+.visual_img{ width:9600px; height:600px;}
+.visual_img li{ float:left; }
+.visual_img>li{width:1920px;text-align:center;}
+
+
+.visual_btn{ position: absolute; margin:-100px 0 0 50px;  }
+.visual_btn li{ float:left; margin-right:5px; }
+
+.visual_btn li button{ 
+   font-size:40px;  border:0; 
+   background:#000; color:#fff; padding:10px 15px;}
+
+.visual_btn li button:hover{ 
+   background:rgba(0,0,0,0.5);    cursor:pointer;  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
