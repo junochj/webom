@@ -133,12 +133,12 @@ $(window).resize(function () {
 //햄버거 제이쿼리
     $(".header_inner>p:eq(0) button").click(function(){
           $(".gnb_slider").stop().animate({marginLeft:"0%"},700);
-          $(".container").stop().animate({marginLeft:0});
+          $(".container").stop().animate({marginLeft:"5%"});
 
       });
     $(".close p button").click(function(){
           $(".gnb_slider").stop().animate({marginLeft:"-100%"},700);
-          $(".container").stop().animate({marginLeft:0});
+          $(".container").stop().animate({marginLeft:"5%"});
 
       });
 //스크롤 탑 제이쿼리
