@@ -221,7 +221,7 @@ section:nth-child(4)>h2{border:0;text-align:center;color:#fff;}
 .skill_txt,.license_txt{text-align:center;}
 .skill_txt>li>p,.license_txt>li>p{}
 .skill_txt>li>p:nth-child(1),.license_txt>li>p:nth-child(1){width:50px;border-bottom:1px solid #ffb4b4;margin-left:370px;font-size:18px;float:left;margin-bottom:25px;color:#fb5b5b;}
-.skill_txt>li>p:nth-child(2),.license_txt>li>p:nth-child(2){width:53px;border-bottom:1px solid #ffb4b4;margin-right:370px;font-size:18px;float:right;margin-bottom:25px;color:#fb5b5b;}
+.skill_txt>li>p:nth-child(2),.license_txt>li>p:nth-child(2){width:59px;border-bottom:1px solid #ffb4b4;margin-right:370px;font-size:18px;float:right;margin-bottom:25px;color:#fb5b5b;}
 .skill_txt>li>p:nth-child(3),.license_txt>li>p:nth-child(3){clear:both;float:right:left;margin-bottom:50px;}
 
 .license>h3{clear:both;width:80px;margin-bottom:50px;}
