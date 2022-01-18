@@ -100,7 +100,7 @@ section:nth-child(4)>h2{border:0;text-align:center;color:#fff;}
 .website_thumb>li:nth-child(1)>button{background:url(images/agracolor.png)no-repeat center;}
 .website_thumb>li:nth-child(2)>button{background:url(images/hansolcolor.png)no-repeat center;}
 
-.mobilesite>h3{width:99px;margin-bottom:30px;}
+.mobilesite>h3{width:120px;margin-bottom:30px;}
 .mobile_thumb>li>button{width:50%;height:70px;border:1px solid #ffb4b4;box-sizing:border-box;float:left;margin-bottom:20px;}
 .mobile_thumb>li:nth-child(1)>button{background:url(images/withcolor.png)no-repeat center;}
 .mobile_thumb>li:nth-child(2)>button{background:url(images/withcolor.png)no-repeat center;}
