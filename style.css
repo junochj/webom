@@ -234,11 +234,13 @@ section:nth-child(4)>h2{border:0;text-align:center;color:#fff;}
 .thumb2>li:nth-child(6)>button{background:url(images/rv.png) no-repeat center top;margin-bottom:35px;}
 
 
-.website>h3{width:105px;margin-bottom:50px;}
+.website>h3{width:85px;margin-bottom:50px;}
 .website_thumb,.mobile_thumb,.jjuny_thumb{width:800px;height:205px;margin:0 auto;}
 .website_thumb>li>button{width:400px;height:205px;border:1px solid #ffb4b4;box-sizing:border-box;float:left;}
 .website_thumb>li:nth-child(1)>button{background:url(images/ahngraphics.jpg)no-repeat center / 397px 203px;}
 .website_thumb>li:nth-child(2)>button{background:url(images/hansol.jpg)no-repeat center / 397px 203px;}
+.website_thumb>li:nth-child(3)>button{background:url(images/sahmyook.jpg)no-repeat center / 397px 203px;}
+.website_thumb>li:nth-child(4)>button{background:url(images/gtq-2.jpg)no-repeat center / 397px 203px;margin-bottom:30px;}
 
 .website_txt,.mobilesite_txt,.gui_txt{width:800px;height:140px;margin:35px auto 50px auto;}
 .website_txt>li>div,.mobilesite_txt>li>div,.gui_txt>li>div{float:left;width:570px;height:140px;margin-bottom:50px;}

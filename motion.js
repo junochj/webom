@@ -104,6 +104,26 @@ $(window).resize(function () {
         $(".website_txt li div p:nth-of-type(6)").replaceWith("<p>GUI DESING<br>Only 100%</p>");
         $(".website_txt li>p:eq(0)").replaceWith("<p><a href='https://junochj.github.io/hansol_/index.html' target='_blank'>웹 컨텐츠 보러가기</a></p>");
    });
+   $(".website_thumb li:eq(2) button").click(function(){
+        $(".website_txt li div h3").replaceWith("<h3>삼육</h3>");
+        $(".website_txt li div p:nth-of-type(1)").replaceWith("<p>TITLE<br>삼육 웹사이트 리뉴얼 제작</p>");
+        $(".website_txt li div p:nth-of-type(2)").replaceWith("<p>PARTICIPATION<br>디자인 100% 코딩 100%</p>");
+        $(".website_txt li div p:nth-of-type(3)").replaceWith("<p>COLOR<span><img src='images/shamcolor.png'></span></p>");
+        $(".website_txt li div p:nth-of-type(4)").replaceWith("<p>DESIGN<br>Potoshop / Illustrator</p>");
+        $(".website_txt li div p:nth-of-type(5)").replaceWith("<p>WEB CODING<br>Html / Css / jQurey</p>");
+        $(".website_txt li div p:nth-of-type(6)").replaceWith("<p>GUI DESING<br>Only 100%</p>");
+        $(".website_txt li>p:eq(0)").replaceWith("<p><a href='https://junochj.github.io/shamyug/index.html' target='_blank'>웹 컨텐츠 보러가기</a></p>");
+   });
+   $(".website_thumb li:eq(3) button").click(function(){
+        $(".website_txt li div h3").replaceWith("<h3>GTQ</h3>");
+        $(".website_txt li div p:nth-of-type(1)").replaceWith("<p>TITLE<br>GTQ 모바일 리뉴얼 제작중</p>");
+        $(".website_txt li div p:nth-of-type(2)").replaceWith("<p>PARTICIPATION<br>메인디자인 100%</p>");
+        $(".website_txt li div p:nth-of-type(3)").replaceWith("<p>COLOR<span><img src='images/gtq.png'></span></p>");
+        $(".website_txt li div p:nth-of-type(4)").replaceWith("<p>DESIGN<br>Potoshop / Illustrator</p>");
+        $(".website_txt li div p:nth-of-type(5)").replaceWith("<p>WEB CODING<br>제작중</p>");
+        $(".website_txt li div p:nth-of-type(6)").replaceWith("<p>GUI DESING<br>Only 100%</p>");
+        $(".website_txt li>p:eq(0)").replaceWith("<p><a href='' target='_blank'>제작중</a></p>");
+   });
   
 //버튼 누르면 해당 내용이 나오는 부분들3 모바일 사이트 부분
    $(".mobile_thumb li:eq(0) button").click(function(){
